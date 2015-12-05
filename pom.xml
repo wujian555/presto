@@ -97,7 +97,7 @@
         <module>presto-docs</module>
         <module>presto-verifier</module>
         <module>presto-testing-server-launcher</module>
-    <module>test</module>
+    <module>presto-udf</module>
   </modules>
 
     <dependencyManagement>
